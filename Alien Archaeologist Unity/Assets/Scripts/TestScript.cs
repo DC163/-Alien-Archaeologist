@@ -8,7 +8,7 @@ public class TestScript : MonoBehaviour
     void Start()
     {
         //the humble first line
-        Debug.Log("jorking mm");
+        Debug.Log("heh heh heh heh");
 
         /* this is the second line
          * and this is the third */
@@ -21,7 +21,7 @@ public class TestScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log("update: still jorking!");
+        Debug.Log("update: heh heh heh heh");
         transform.Translate(0.1f, 0, 0);
     }
 }
